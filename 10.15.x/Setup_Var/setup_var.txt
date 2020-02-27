@@ -1,0 +1,2 @@
+setup_var 0x8DC 0x2  （修改dvmt 为64MB）
+setup_var 0x5BE 0x0   （禁用CFG lock）
