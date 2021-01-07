@@ -32,3 +32,6 @@ Dell-7070-mff黑苹果OpenCore引导 所有硬件均工作 iMessage自行添加 
 
 更新(2020-11-25):  
 1.新增对应Intel 9560网卡配置 自行测试
+
+更新(2021-01-08):  
+1.更新OpenCore和Kexts， 增加Intel无线网卡支持  
